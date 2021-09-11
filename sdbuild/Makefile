@@ -4,7 +4,7 @@ UBUNTU_RELEASE := bionic
 VERSION := 2.4
 
 KERNEL_VERSION := 2018.3
-LINUX_VERSION := 4.14.0-xilinx-v2018.3
+LINUX_VERSION := 4.14.0-xilinx-
 SCRIPT_DIR := $(CURDIR)/scripts
 
 all: real_all
